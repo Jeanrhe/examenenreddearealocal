@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace examenenreddearealocal
 {
-    public partial class evaluacion : System.Web.UI.Page
+    public partial class verexamen : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
